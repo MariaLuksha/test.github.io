@@ -1,1 +1,1 @@
-# test.github.io
+# information about repository test
