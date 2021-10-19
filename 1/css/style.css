@@ -1,0 +1,30 @@
+body {
+    background-color: #FFFFFF;
+    overflow: hidden;
+}
+
+img {
+    border: hidden;
+}
+
+.image {
+    border: hidden;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    left: 0px;
+    max-width: 100%;
+    height: auto;
+    width: auto;
+}
+
+svg {
+    border: hidden;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    left: 0px;
+    max-width: 100%;
+    height: auto;
+    width: auto;
+}
