@@ -1,0 +1,41 @@
+body {
+    font-family: 'Roboto Slab', serif;
+    /*--hidden */
+}
+
+img {
+    border: hidden;
+}
+
+.image {
+    border: hidden;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    left: 0px;
+    max-width: 100%;
+    height: auto;
+    width: auto;
+}
+
+svg {
+    border: hidden;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    left: 0px;
+    max-width: 100%;
+    height: auto;
+    width: auto;
+}
+
+.menu {
+    transition: .2s fill;
+    fill: #ffffff;
+    opacity: 0;
+}
+
+.menu:hover {
+    fill: #747474;
+    opacity: 0.03;
+}
